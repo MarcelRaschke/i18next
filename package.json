@@ -57,7 +57,7 @@
     "@babel/register": "^7.16.0",
     "@rollup/plugin-babel": "^5.2.2",
     "@rollup/plugin-commonjs": "^17.0.0",
-    "@rollup/plugin-node-resolve": "^11.0.0",
+    "@rollup/plugin-node-resolve": "^13.3.0",
     "babel-eslint": "^10.0.1",
     "babelify": "^10.0.0",
     "browserify": "17.0.0",
